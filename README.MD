@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mael0salah/Nova-Sentinel/refs/heads/main/Node.png" alt="Background Image"/>
+  <img src="https://github.com/mael0salah/NOVA-SENTINEL/blob/main/NODE.PNG?raw=true" alt="Background Image"/>
 </p>
 
 
